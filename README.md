@@ -4,6 +4,8 @@ Check out [my git server](https://git.kasad.com)
 or my [GitLab](https://gitlab.com/kdkasad).  
 I only use GitHub for forking other GitHub projects.
 
+I also have a [🌐 website](https://kasad.com).
+
 <!--
 **kdkasad/kdkasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
