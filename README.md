@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Check out my [own git server](https://git.kasad.com)
-or my [GitLab](https://gitlab.com/kdkasad).
-
+Check out [my git server](https://git.kasad.com)
+or my [GitLab](https://gitlab.com/kdkasad).  
 I only use GitHub for forking other GitHub projects.
 
 <!--
