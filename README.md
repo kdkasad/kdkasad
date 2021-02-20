@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
 
-Check out [my git server](https://git.kasad.com)
-or my [GitLab](https://gitlab.com/kdkasad).  
-I only use GitHub for forking other GitHub projects.
+I'm Kian. I'm a high-school student in the United States. Some of my hobbies include
+- 💻 programming
+- 📻 amateur radio
+- 🏕 backpacking
 
-I also have a [🌐 website](https://kasad.com).
+I only use GitHub to collaborate on other projects which are hosted on GitHub.  
+If you want to see my own projects, check out my [personal Git server](https://git.kasad.com).
+
+I also have some other things on my [🌐 website](https://kasad.com).
 
 <!--
 **kdkasad/kdkasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
