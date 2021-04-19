@@ -4,6 +4,7 @@ I'm Kian. I'm a high-school student in the United States. Some of my hobbies inc
 - 💻 programming
 - 📻 amateur radio
 - 🏕 backpacking
+- 🏃 track & field
 
 I only use GitHub to collaborate on other projects which are hosted on GitHub.  
 If you want to see my own projects, check out my [personal Git server](https://git.kasad.com).
