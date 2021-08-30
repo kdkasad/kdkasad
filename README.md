@@ -9,7 +9,7 @@ I'm Kian. I'm a high-school student in the United States. Some of my hobbies inc
 I only use GitHub to collaborate on other projects which are hosted on GitHub.  
 If you want to see my own projects, check out my [personal Git server](https://git.kasad.com).
 
-I also have some other things on my [🌐 website](https://kasad.com).
+I also have some other things on my [🔗 website](https://kasad.com).
 
 <!--
 **kdkasad/kdkasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
