@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Kian. I'm a high-school student in the United States. Some of my hobbies include
+I'm Kian. I'm a high-school student in California, USA. Some of my hobbies include
 - 💻 programming
 - 📻 amateur radio
 - 🏕 backpacking
