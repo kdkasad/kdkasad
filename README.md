@@ -73,14 +73,6 @@ I'm Kian. I'm a high-school student in California, USA. Some of my hobbies inclu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </a>
 
-<a href="https://inkscape.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="40" height="40" />
-</a>
-
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" />
-</a>
-
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </a>
