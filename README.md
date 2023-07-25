@@ -1,10 +1,6 @@
 ### Hi there! 👋
 
-I'm Kian. I'm a high-school student in California, USA. Some of my hobbies include
-- 💻 programming
-- 📻 amateur radio
-- 🏕 backpacking
-- 🏃 track & field
+I'm Kian. I'm a first-year student at Purdue University.
 
 ### Looking around?
  - Check out my repositories to see some of my projects.
