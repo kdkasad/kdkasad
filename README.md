@@ -8,13 +8,6 @@ I'm Kian. I'm a first-year student at Purdue University.
  - Small tools, scripts, and experimental projects that are low-quality are on my [personal Git server](https://git.kasad.com).
  - [My website](https://kasad.com) has some other small projects, too.
 
-### Connect with me
-
-<p align="left">
-<a href="https://twitter.com/kiankasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiankasad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiankasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiankasad" height="30" width="40" /></a>
-</p>
-
 ### Languages and tools
 
 <p align="left">
