@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Kian. I'm a first-year student at Purdue University.
+I'm Kian. I'm a first-year Computer Science student at Purdue University.
 
 ### Looking around?
  - Check out my repositories to see some of my projects.
