@@ -21,9 +21,6 @@ I'm Kian. I'm a first-year Computer Science student at Purdue University.
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-</a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
@@ -53,9 +50,6 @@ I'm Kian. I'm a first-year Computer Science student at Purdue University.
 </a>
 <a href="https://debian.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="40" height="40" />
-</a>
-<a href="https://gcc.gnu.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40" />
 </a>
 
 <a href="https://github.com" target="_blank" rel="noreferrer">
