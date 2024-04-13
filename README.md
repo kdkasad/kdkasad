@@ -85,7 +85,7 @@ I'm Kian. I'm a first-year Computer Science student at [Purdue University](https
 </a>
 
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
 </a>
 
 <a href="https://vim.org" target="_blank" rel="noreferrer">
