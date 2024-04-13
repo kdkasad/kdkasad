@@ -98,8 +98,4 @@ I'm Kian. I'm a first-year Computer Science student at [Purdue University](https
 
 </p>
 
-### Statistics
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kdkasad&show_icons=true&locale=en" alt="kdkasad" /></p>
-
 <!-- vim: set et ts=4 sw=4: -->
