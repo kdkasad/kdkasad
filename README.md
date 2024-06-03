@@ -10,92 +10,74 @@ I'm Kian. I'm a first-year Computer Science student at [Purdue University](https
 
 ### Languages and tools
 
-<p align="left">
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<div>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language) target="_blank" rel="noreferrer">
+<img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/c/c-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<a href="https://rust-lang.org target="_blank" rel="noreferrer">
+<img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/rust/rust-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<a href="https://python.org target="_blank" rel="noreferrer">
+<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/python/python-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/JavaScript target="_blank" rel="noreferrer">
+<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/javascript/javascript-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<a href="https://www.typescriptlang.org target="_blank" rel="noreferrer">
+<img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/typescript/typescript-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/HTML target="_blank" rel="noreferrer">
+<img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/html5/html5-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/CSS target="_blank" rel="noreferrer">
+<img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/css3/css3-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29 target="_blank" rel="noreferrer">
+<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/java/java-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell) target="_blank" rel="noreferrer">
+<img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/bash/bash-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<a href="https://www.latex-project.org target="_blank" rel="noreferrer">
+<img alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/latex/latex-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<a href="https://git-scm.com target="_blank" rel="noreferrer">
+<img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/git/git-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://github.com target="_blank" rel="noreferrer">
+<img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/github/github-original.svg" width="40" height="40"></img>
 </a>
-<a href="https://debian.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="40" height="40" />
+<a href="https://kernel.org target="_blank" rel="noreferrer">
+<img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/linux/linux-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+<a href="https://debian.org target="_blank" rel="noreferrer">
+<img alt="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/debian/debian-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+<a href="https://archlinux.org target="_blank" rel="noreferrer">
+<img alt="Arch Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/archlinux/archlinux-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" />
+<a href="https://www.raspberrypi.com target="_blank" rel="noreferrer">
+<img alt="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40" />
+<a href="https://docker.com target="_blank" rel="noreferrer">
+<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/docker/docker-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://php.net" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+<a href="https://nginx.org target="_blank" rel="noreferrer">
+<img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/nginx/nginx-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://processing.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" alt="Processing" width="40" height="40" />
+<a href="https://firebase.google.com target="_blank" rel="noreferrer">
+<img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/firebase/firebase-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" />
+<a href="https://kit.svelte.dev target="_blank" rel="noreferrer">
+<img alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/svelte/svelte-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://www.ssh.com/academy/ssh" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="SSH" width="40" height="40" />
+<a href="https://tailwindcss.com target="_blank" rel="noreferrer">
+<img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+<a href="https://neovim.io target="_blank" rel="noreferrer">
+<img alt="Neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/neovim/neovim-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://vim.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40" />
+<a href="https://vscodium.com target="_blank" rel="noreferrer">
+<img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/vscode/vscode-original.svg" width="40" height="40"></img>
 </a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code (VSCode)" width="40" height="40" />
-</a>
-
-</p>
-
-<!-- vim: set et ts=4 sw=4: -->
+</div>
