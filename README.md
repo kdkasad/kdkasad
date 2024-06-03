@@ -41,6 +41,9 @@ I'm Kian. I'm a first-year Computer Science student at [Purdue University](https
 <a href="https://www.latex-project.org target="_blank" rel="noreferrer">
 <img alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/latex/latex-original.svg" width="40" height="40"></img>
 </a>
+<a href="https://sqlite.org target="_blank" rel="noreferrer">
+<img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/sqlite/sqlite-original.svg" width="40" height="40"></img>
+</a>
 <a href="https://git-scm.com target="_blank" rel="noreferrer">
 <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/git/git-original.svg" width="40" height="40"></img>
 </a>
@@ -68,6 +71,9 @@ I'm Kian. I'm a first-year Computer Science student at [Purdue University](https
 <a href="https://firebase.google.com target="_blank" rel="noreferrer">
 <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/firebase/firebase-original.svg" width="40" height="40"></img>
 </a>
+<a href="https://gohugo.io target="_blank" rel="noreferrer">
+<img alt="Hugo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/hugo/hugo-original.svg" width="40" height="40"></img>
+</a>
 <a href="https://kit.svelte.dev target="_blank" rel="noreferrer">
 <img alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/svelte/svelte-original.svg" width="40" height="40"></img>
 </a>
@@ -79,5 +85,8 @@ I'm Kian. I'm a first-year Computer Science student at [Purdue University](https
 </a>
 <a href="https://vscodium.com target="_blank" rel="noreferrer">
 <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/vscode/vscode-original.svg" width="40" height="40"></img>
+</a>
+<a href="https://www.jetbrains.com/idea/ target="_blank" rel="noreferrer">
+<img alt="IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/intellij/intellij-original.svg" width="40" height="40"></img>
 </a>
 </div>

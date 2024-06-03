@@ -9,6 +9,7 @@ CSS,css3,https://en.wikipedia.org/wiki/CSS
 Java,java,https://en.wikipedia.org/wiki/Java_%28programming_language%29
 Bash,bash,https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 LaTeX,latex,https://www.latex-project.org
+SQLite,sqlite,https://sqlite.org
 Git,git,https://git-scm.com
 GitHub,github,https://github.com
 Linux,linux,https://kernel.org
@@ -18,7 +19,9 @@ Raspberry Pi,raspberrypi,https://www.raspberrypi.com
 Docker,docker,https://docker.com
 Nginx,nginx,https://nginx.org
 Firebase,firebase,https://firebase.google.com
+Hugo,hugo,https://gohugo.io
 Svelte,svelte,https://kit.svelte.dev
 Tailwind CSS,tailwindcss,https://tailwindcss.com
 Neovim,neovim,https://neovim.io
 VS Code,vscode,https://vscodium.com
+IntelliJ,intellij,https://www.jetbrains.com/idea/
