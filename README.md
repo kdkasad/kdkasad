@@ -4,9 +4,9 @@ I'm Kian. I'm a first-year Computer Science student at [Purdue University](https
 
 ### Looking around?
  - Check out my repositories to see some of my projects.
- - Projects which I've forked are under the [kdkasad-forks](https://github.com/kdkasad-forks) organization.
- - Small tools, scripts, and experimental projects that are low-quality are on my [personal Git server](https://git.kasad.com).
- - [My website](https://kasad.com) has some other small projects, too.
+ - Open-source projects I've forked in order to contribute to are located in my [kdkasad-forks](https://github.com/kdkasad-forks) organization.
+ - Small tools, scripts, and some experimental projects are on my [personal Git server](https://git.kasad.com).
+ - [My website](https://kasad.com) also has some other small projects, including a few articles about various development tools.
 
 ### Languages and tools
 
