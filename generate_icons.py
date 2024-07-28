@@ -14,6 +14,6 @@ for entry in iconsdef:
     svgurl = f'https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/{
         devicon}/{devicon}-original.svg'
 
-    print(f'<a href="{url} target="_blank" rel="noreferrer">')
+    print(f'<a href="{url}" target="_blank" rel="noreferrer">')
     print(f'<img alt="{name}" src="{svgurl}" width="40" height="40"></img>')
     print('</a>')
