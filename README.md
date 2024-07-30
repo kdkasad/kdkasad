@@ -6,7 +6,7 @@ I'm Kian. I'm a second-year Computer Science student at [Purdue University](http
  - Take a look at [my website](https://kasad.com) to find out more about me.
  - Check out my repositories to see some of my projects.
  - Projects which I've forked are under the [kdkasad-forks](https://github.com/kdkasad-forks) organization.
- - Small tools, scripts, and experimental projects that are low-quality are on my [personal Git server](https://git.kasad.com).
+ - Smaller tools, scripts, and experimental projects are on my [personal Git server](https://git.kasad.com).
 
 ### Languages and tools
 
