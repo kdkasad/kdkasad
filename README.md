@@ -17,6 +17,9 @@ I'm Kian. I'm a second-year Computer Science student at [Purdue University](http
 <a href="https://rust-lang.org" target="_blank" rel="noreferrer">
 <img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/rust/rust-original.svg" width="40" height="40"></img>
 </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer">
+<img alt="Go (Golang)" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/go/go-original.svg" width="40" height="40"></img>
+</a>
 <a href="https://python.org" target="_blank" rel="noreferrer">
 <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/python/python-original.svg" width="40" height="40"></img>
 </a>
