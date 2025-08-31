@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Kian. I'm a second-year Computer Science student at [Purdue University](https://github.com/Purdue).
+I'm Kian. I'm a third-year Computer Science student at [Purdue University](https://github.com/Purdue).
 
 ### Looking around?
  - Take a look at [my website](https://kasad.com) to find out more about me.
